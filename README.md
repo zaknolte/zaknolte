@@ -4,7 +4,9 @@
 - 🧪 10+ years analytical chemistry experience
 - 🐍 3+ years machine learning experience in healthcare industry
 
- ---**Check out [Chrom-Dojo](https://chrom-dojo.com) - a cool webapp designed to create custom chromatograms for educational purposes!**---
+<h4 alighn="center">Projects</h4>
+ - [Chrom-Dojo](https://chrom-dojo.com) - a cool webapp designed to create custom chromatograms for educational purposes!
+ - [hockeystatsdashboard](https://hockeystatsdashboard.com) - app for browsing NHL stats
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
